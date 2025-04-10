@@ -55,31 +55,24 @@
 
 - **Application Development using Microservices and Serverless**  
   *IBM | Issued Nov 2024*  
-  *Certification ID: QQDDOSVUXIRZ*  
 
 - **Introduction to Cloud Computing**  
   *IBM | Issued Oct 2024*  
-  *Certification ID: WZ2VS32HR90K*  
 
 - **Introduction to DevOps**  
   *IBM | Issued Oct 2024*  
-  *Certification ID: LKFIGM70KG4C*  
 
 - **Data Science Methodology**  
   *IBM | Issued Oct 2023*  
-  *Certification ID: KFERGQMA4XL7*  
 
 - **Python for Data Science, AI & Development**  
   *IBM | Issued Oct 2023*  
-  *Certification ID: JAACHB9Q2CSB*  
 
 - **Tools for Data Science**  
   *IBM | Issued Oct 2023*  
-  *Certification ID: 7FLCXJ7XEBEY*  
 
 - **What is Data Science?**  
   *IBM | Issued Oct 2023*  
-  *Certification ID: NLCUL4B3LBJV*  
 
 ---
 
